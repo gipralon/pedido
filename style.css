@@ -1,0 +1,29 @@
+body{
+    
+    /* width: 100%; */
+    /* height: 100%; */
+    background: #e40c63;
+}
+
+#content {
+    width: 90%;
+    height: 90%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    padding: 5%;
+    border-radius: 10%;
+    padding-top: 10%;
+    padding-bottom: 20%;
+    text-align: center;
+    font-family: sans-serif;
+}
+
+.btn {
+    background: black;
+    color: white;
+    border: none;
+    padding: 10px;
+    width: 80px;
+    border-radius: 15px;
+}
